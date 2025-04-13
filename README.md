@@ -14,6 +14,5 @@ I’m a technology enthusiast with a strong interest in Artificial Intelligence 
 - Research-based learning and practical implementation
 
 ### 📫 Get in touch
-- Email: [shiwammaddheshiya@gmail.com]
 - LinkedIn: (www.linkedin.com/in/shivam-maddheshiya3)
 
