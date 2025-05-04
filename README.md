@@ -15,4 +15,5 @@ I’m a technology enthusiast with a strong interest in Artificial Intelligence 
 
 ### 📫 Get in touch
 - LinkedIn: (www.linkedin.com/in/shivam-maddheshiya3)
+- email: (shiwammaddheshiya@gamil.com)
 
