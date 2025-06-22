@@ -13,5 +13,5 @@ I am currently concentrating on enhancing my skills in machine learning, neural 
 Research-driven learning and real-world implementation.
 
 ### 📫 Get in touch
-- LinkedIn: (www.linkedin.com/in/shivam-maddheshiya3)
+- LinkedIn: (www.linkedin.com/in/shiwamm)
 - email: (shiwammaddheshiya@gamil.com)
