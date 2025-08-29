@@ -24,8 +24,8 @@
 ## 📫 Get in Touch
 - 📧 Email: [shiwammaddheshiya@gmail.com](mailto:shiwammaddheshiya@gmail.com)  
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shiwamm/)
-- 🌐 Portfolio: [Your Portfolio Website](https://your-portfolio-link)  
-- 🐙 GitHub: [Your GitHub](https://shiwam-m.github.io/Portfolio/)
+- 🌐 Portfolio: [Your Portfolio Website](https://shiwam-m.github.io/Portfolio/)
+- 🐙 GitHub: [Your GitHub](https://github.com/Shiwam-m)
 
 ---
 ⭐️ *“Transforming complex AI research into scalable real-world solutions.”*
