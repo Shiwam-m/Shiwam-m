@@ -1,16 +1,32 @@
-## Hi, I'm Shiwam Maddhesiya 👋
-I’m currently focused on developing my skills to become an AI Engineer.
+# Hi, I'm Shiwam Maddhesiya 👋
+🎓 Final-year Computer Science student specializing in **AI/ML Engineering**  
+💡 Passionate about building intelligent systems with **Deep Learning, NLP, and GenAI**  
+🚀 Currently working on projects around **LLMs, Neural Networks, and scalable ML systems**
 
-### 🚀 What I'm working on
-- Enhancing my expertise in **Deep Learning** and **Neural Networks**
-- Developing AI projects to implement and solidify my knowledge
-- Learning best practices in clean code, model optimization, and scalable ML systems
+---
 
-### 💼 Technical Interests
-- Artificial Intelligence / Machine Learning / Deep Learning / GenAI
-- Computer Vision & NLP
-- Python, TensorFlow, PyTorch
-Research-driven learning and real-world implementation.
+## 🚀 What I'm Working On
+- Enhancing expertise in **Deep Learning & Neural Networks**
+- Developing multi-agent LLM systems with LangChain and ChromaDB
+- Building end-to-end ML pipelines for real-world applications
+- Optimizing model performance and implementing clean coding practices
 
-### 📫 Get in touch
-- email: (shiwammaddheshiya@gamil.com)
+---
+
+## 💼 Technical Interests
+- Core AI/ML: Deep Learning, Computer Vision, Natural Language Processing
+- Generative AI: LLMs, RAG systems, Prompt Engineering, LangChain
+- Tech Stack: Python, TensorFlow, PyTorch, Scikit-learn, FastAPI, Flask
+- Specialties: Research implementation, model optimization, API deployment
+
+---
+
+## 📫 Get in Touch
+- 📧 Email: [shiwammaddheshiya@gmail.com](mailto:shiwammaddheshiya@gmail.com)  
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shiwamm/)
+- 🌐 Portfolio: [Your Portfolio Website](https://your-portfolio-link)  
+- 🐙 GitHub: [Your GitHub](https://shiwam-m.github.io/Portfolio/)
+
+---
+⭐️ *“Transforming complex AI research into scalable real-world solutions.”*
+
