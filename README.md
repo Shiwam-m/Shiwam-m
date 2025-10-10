@@ -29,8 +29,8 @@
 
 ## 📊 GitHub Stats
 ![Shiwam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiwam-m&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwam-m&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shiwam-m&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwam-m&layout=compact&theme=radical)
 
 ---
 
@@ -45,7 +45,7 @@
 
 ## 📫 Connect With Me
 - 📧 Email: [shiwammaddheshiya@gmail.com](mailto:shiwammaddheshiya@gmail.com)
-- 
+
 ---
 ⭐️ *“Transforming complex AI research into scalable real-world solutions.”*
 
