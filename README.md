@@ -13,7 +13,9 @@
 
 ---
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning&center=true&width=500&height=50">
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning&center=true&width=500&height=50"> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark" />
+
 
 </p>
 
