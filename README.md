@@ -13,7 +13,7 @@
 
 ---
 <p align="center"> 
-  <img src="https://github.com/USERNAME/USERNAME/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
 </p>
 
 
