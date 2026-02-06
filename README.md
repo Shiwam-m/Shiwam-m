@@ -12,10 +12,7 @@
 - Optimizing model performance and implementing clean coding practices
 
 ---
-
-
-<img src="https://github.com/USERNAME/USERNAME/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-
+<p align="center"> <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/> </p>
 
 
 ## Tech Stack
