@@ -1,4 +1,4 @@
-# Hi, I'm Shiwam Maddhesiya 👋
+# Hi, I'm Shiwam  👋
 - Final-year Computer Science student specializing in **AI/ML Engineering**  
 - Passionate about building intelligent systems with **Deep Learning, NLP, and GenAI**  
 - Currently working on projects around **LLMs, Neural Networks, and scalable ML systems**
