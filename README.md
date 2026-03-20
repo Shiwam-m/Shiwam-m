@@ -131,7 +131,7 @@ Operating System:
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1hDOUOGx3V0dPWnef47Qp2BT4RgkwQxrE/view?usp=sharing">
-    <img src="gitcity.png" alt="My GitCity" width="700" height="400"/>
+    <img src="./gitcity.png" alt="My GitCity" width="700" height="400"/>
   </a>
 </p>
 
