@@ -3,35 +3,13 @@
 </p>
 
 
-<h1 align="center">Hi, I'm Shiwam 👋</h1>
-<h3 align="center">Generative AI Engineer · RAG Pipelines · AI Agents · LLM Systems</h3>
-
-<p align="center">
-  <a href="https://shiwam.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-shiwam.com-1D3557?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="mailto:shiwammaddheshiya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-shiwammaddheshiya-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/shiwam-m" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-shiwam--m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+## About Me
+I'm a computer science guy with a knack for AI and machine learning. I've built loads of websites over the years and even worked on augmented reality projects - that futuristic stuff is so cool! Graphic design is one of my favorite hobbies when I'm not coding. I'm also really into digital marketing and have done a ton of work in that space. Technology is my passion and I love exploring all the different areas it touches.
 
 
 
-# Hi, I'm Shiwam  👋
-- Final-year Computer Science student specializing in **AI/ML Engineering**  
-- Passionate about building intelligent systems with **Deep Learning, NLP, and GenAI**  
-- Currently working on projects around **LLMs, Neural Networks, and scalable ML systems**
 
 
-
-## What I'm Working On
-- Enhancing expertise in **Deep Learning & Neural Networks**
-- Developing multi-agent LLM systems with LangChain and ChromaDB
-- Building end-to-end ML pipelines for real-world applications
-- Optimizing model performance and implementing clean coding practices
 
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Engineer;LLM+Engineer;AI+Agents;AI/ML+Engineer&center=true&width=500&height=50">
