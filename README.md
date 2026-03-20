@@ -31,38 +31,36 @@ Languages:
 </table>
 
 Best frameworks and libraries for Machine Learning:
-<table>
+<table style="border-spacing:10px;">
   <tr>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">PyTorch</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">TensorFlow</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">NumPy</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Pandas</span>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Sklearn</span>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Matplotlib</span>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">OpenCV</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
     </td>
   </tr>
+  <tr>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">PyTorch</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">TensorFlow</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">NumPy</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">Pandas</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">Scikit‑learn</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">Matplotlib</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">OpenCV</td>
+  </tr>
 </table>
+
+
+
+
+
 
 My tools for Data Manipulation:
 <table>
