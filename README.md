@@ -7,6 +7,68 @@
 I'm a computer science guy with a knack for AI and machine learning. I've built loads of websites over the years and even worked on augmented reality projects - that futuristic stuff is so cool! Graphic design is one of my favorite hobbies when I'm not coding. I'm also really into digital marketing and have done a ton of work in that space. Technology is my passion and I love exploring all the different areas it touches.
 
 
+## Languages and Tools
+Languages:
+<table>
+  <tr>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Python</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">C</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">C++</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">JavaScript</span>
+    </td>
+  </tr>
+</table>
+
+Best frameworks and libraries for Machine Learning:
+<table>
+  <tr>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">PyTorch</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">TensorFlow</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">NumPy</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Pandas</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Sklearn</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Matplotlib</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">OpenCV</span>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 
 
