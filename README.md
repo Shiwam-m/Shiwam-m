@@ -68,9 +68,18 @@
 
 ---
 
-## Connect With Me
-- Email: [shiwammaddheshiya@gmail.com](mailto:shiwammaddheshiya@gmail.com)
-
+## Connect with Me
 ---
-*“Transforming complex AI research into scalable real-world solutions.”*
+<p align="center">
+  <a href="https://shiwam.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-shiwam.com-1D3557?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:shiwammaddheshiya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-shiwammaddheshiya-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shiwam-m" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-shiwam--m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 
