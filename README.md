@@ -150,6 +150,9 @@ Operating System:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwam-m&layout=compact&theme=highcontrast&card_width=400" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shiwam-m&style=for-the-badge&color=orange" alt="Profile Views" />
+</p>
 
 **Connect with Me**
 <p align="center">
