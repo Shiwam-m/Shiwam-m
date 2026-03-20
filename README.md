@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:000000&height=300&section=header&text=I%20am%20Shiwam.&fontSize=70&fontColor=00BFFF&animation=fadeIn&fontAlignY=45" />
 </p>
 
-## About Me
+** About Me **
 I'm a computer science guy with a knack for AI and machine learning. I've built loads of websites over the years and even worked on augmented reality projects - that futuristic stuff is so cool! Graphic design is one of my favorite hobbies when I'm not coding. I'm also really into digital marketing and have done a ton of work in that space. Technology is my passion and I love exploring all the different areas it touches.
 
-## Languages and Tools
-#### Languages:
+** Languages and Tools **
+Languages:
 <table style="border-spacing:10px;">
   <!-- Row for icons -->
   <tr>
@@ -32,7 +32,7 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
   </tr>
 </table>
 
-## Best frameworks and libraries for Machine Learning:
+Best frameworks and libraries for Machine Learning:
 <table style="border-spacing:10px;">
   <!-- Row for icons -->
   <tr>
@@ -70,7 +70,7 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
   </tr>
 </table>
 
-## Tools for Data Manipulation:
+Tools for Data Manipulation:
 <table style="border-spacing:10px;">
   <tr>
     <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
@@ -102,7 +102,7 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
   </tr>
 </table>
 
-## Operating System:
+Operating System:
 <table style="border-spacing:10px;">
   <tr>
     <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
@@ -138,7 +138,7 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwam-m&layout=compact&theme=highcontrast" alt="Top Languages" />
 </p>
 
-## Connect with Me
+** Connect with Me **
 <p align="center">
   <a href="https://shiwam.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-shiwam.com-1D3557?style=for-the-badge&logo=firefox&logoColor=white" />
