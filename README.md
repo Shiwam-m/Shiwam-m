@@ -69,7 +69,6 @@
 
 
 Connect with Me
------
 <p align="center">
   <a href="https://shiwam.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-shiwam.com-1D3557?style=for-the-badge&logo=firefox&logoColor=white" />
