@@ -9,26 +9,31 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
 
 ## Languages and Tools
 Languages:
-<table>
+<table style="border-spacing:10px;">
+  <!-- Row for icons -->
   <tr>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Python</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">C</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">C++</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">JavaScript</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
     </td>
   </tr>
+  <!-- Row for labels -->
+  <tr>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">Python</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">C</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">C++</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">JavaScript</td>
+  </tr>
 </table>
+
 
 Best frameworks and libraries for Machine Learning:
 <table style="border-spacing:10px;">
@@ -69,56 +74,53 @@ Best frameworks and libraries for Machine Learning:
 </table>
 
 
-
-
-
-
-
-My tools for Data Manipulation:
-<table>
+Tools for Data Manipulation:
+<table style="border-spacing:10px;">
   <tr>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Conda</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Jupyter</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">R</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">MySQL</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleanalytics/googleanalytics-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Google Analytics</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleanalytics/googleanalytics-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">SQLite</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
     </td>
+  </tr>
+  <tr>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">Conda</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">Jupyter</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">R</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">MySQL</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">Google Analytics</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">SQLite</td>
   </tr>
 </table>
 
 OS:
-<table>
+<table style="border-spacing:10px;">
   <tr>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Linux</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/><br>
-      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Ubuntu</span>
+    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
     </td>
   </tr>
+  <tr>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">Linux</td>
+    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">Ubuntu</td>
+  </tr>
 </table>
-
-
 
 
 
