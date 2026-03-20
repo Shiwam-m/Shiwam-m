@@ -33,6 +33,7 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
     <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">JavaScript</td>
   </tr>
 </table>
+
 ## Best frameworks and libraries for Machine Learning:
 <table style="border-spacing:10px;">
   <!-- Row for icons -->
@@ -70,6 +71,7 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
     <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">OpenCV</td>
   </tr>
 </table>
+
 ## Tools for Data Manipulation:
 <table style="border-spacing:10px;">
   <tr>
@@ -101,6 +103,7 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
     <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">SQLite</td>
   </tr>
 </table>
+
 ## Operating System:
 <table style="border-spacing:10px;">
   <tr>
@@ -121,18 +124,31 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
 ---
 
 
+<p align="center">
+  <a href="https://github.com/Shiwam-m">
+    <img src="https://streak-stats.demolab.com/?user=Shiwam-m&theme=highcontrast&hide_border=true&border_radius=5&card_width=1000" alt="GitHub Streak" />
+  </a>
+</p>
+
+
+---
 
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiwam-m&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
+</p>
 
 
-## GitHub Stats
-![Shiwam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiwam-m&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shiwam-m&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwam-m&layout=compact&theme=radical)
+---
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwam-m&layout=compact&theme=highcontrast" alt="Top Languages" />
+</p>
 
+
+--- 
 
 
 ## Connect with Me
@@ -147,6 +163,4 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
     <img src="https://img.shields.io/badge/LinkedIn-shiwam--m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-
 
