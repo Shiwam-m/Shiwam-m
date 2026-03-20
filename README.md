@@ -118,13 +118,16 @@ Operating System:
   </tr>
 </table>
 
+
 ---
+
 
 <p align="center">
   <a href="https://github.com/Shiwam-m">
     <img src="https://streak-stats.demolab.com/?user=Shiwam-m&theme=highcontrast&hide_border=true&border_radius=5&card_width=1000" alt="GitHub Streak" />
   </a>
 </p>
+
 
 ---
 
@@ -146,6 +149,7 @@ Operating System:
 
 ---
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwam-m&layout=compact&theme=highcontrast&card_width=400" alt="Top Languages" />
 </p>
@@ -154,16 +158,22 @@ Operating System:
   <img src="https://komarev.com/ghpvc/?username=Shiwam-m&style=for-the-badge&color=orange" alt="Profile Views" />
 </p>
 
-**Connect with Me**
 <p align="center">
-  <a href="https://shiwam.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-shiwam.com-1D3557?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="mailto:shiwammaddheshiya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-shiwammaddheshiya-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/shiwam-m" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-shiwam--m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
+
+
+### Connect with Me 
+
+<p align="center">
+  <a href="https://shiwam.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-shiwam.com-1D3557?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/shiwam-m/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shiwam--m-0A66C2?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:shiwammaddheshiya@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-shiwammaddheshiya-D14836?style=flat-square&logo=gmail">
+  </a>
+</p>
