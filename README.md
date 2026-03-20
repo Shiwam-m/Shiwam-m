@@ -1,3 +1,20 @@
+<h1 align="center">Hi, I'm Shiwam 👋</h1>
+<h3 align="center">Generative AI Engineer · RAG Pipelines · AI Agents · LLM Systems</h3>
+
+<p align="center">
+  <a href="https://shiwam.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-shiwam.com-1D3557?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:shiwammaddheshiya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-shiwammaddheshiya-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shiwam-m" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-shiwam--m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+
 # Hi, I'm Shiwam  👋
 - Final-year Computer Science student specializing in **AI/ML Engineering**  
 - Passionate about building intelligent systems with **Deep Learning, NLP, and GenAI**  
