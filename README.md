@@ -68,7 +68,7 @@
 
 
 
-## Connect with Me
+Connect with Me
 -----
 <p align="center">
   <a href="https://shiwam.com" target="_blank">
