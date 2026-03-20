@@ -32,30 +32,42 @@ Languages:
 
 Best frameworks and libraries for Machine Learning:
 <table style="border-spacing:10px;">
+  <!-- Row for icons -->
   <tr>
-    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
     </td>
-    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
     </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/64/scikitlearn-icon.png" width="40" height="40"/>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+    </td>
   </tr>
+  <!-- Row for labels -->
   <tr>
-    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">PyTorch</td>
-    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">TensorFlow</td>
-    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">NumPy</td>
-    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">Pandas</td>
-    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">Scikit‑learn</td>
-    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">Matplotlib</td>
-    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">OpenCV</td>
+    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">PyTorch</td>
+    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">TensorFlow</td>
+    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">NumPy</td>
+    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Pandas</td>
+    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Sklearn</td>
+    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Matplotlib</td>
+    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">OpenCV</td>
   </tr>
 </table>
+
 
 
 
@@ -141,41 +153,4 @@ OS:
 </p>
 
 
-
-<table style="border-spacing:10px;">
-  <!-- Row for icons -->
-  <tr>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/64/scikitlearn-icon.png" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
-    </td>
-  </tr>
-  <!-- Row for labels -->
-  <tr>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">PyTorch</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">TensorFlow</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">NumPy</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Pandas</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Sklearn</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Matplotlib</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">OpenCV</td>
-  </tr>
-</table>
 
