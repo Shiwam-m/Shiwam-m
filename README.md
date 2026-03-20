@@ -147,10 +147,6 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwam-m&layout=compact&theme=highcontrast" alt="Top Languages" />
 </p>
 
-
---- 
-
-
 ## Connect with Me
 <p align="center">
   <a href="https://shiwam.com" target="_blank">
