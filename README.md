@@ -64,6 +64,49 @@ Best frameworks and libraries for Machine Learning:
   </tr>
 </table>
 
+My tools for Data Manipulation:
+<table>
+  <tr>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Conda</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Jupyter</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">R</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">MySQL</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleanalytics/googleanalytics-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Google Analytics</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">SQLite</span>
+    </td>
+  </tr>
+</table>
+
+OS:
+<table>
+  <tr>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Linux</span>
+    </td>
+    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; margin:5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/><br>
+      <span style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">Ubuntu</span>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -73,20 +116,7 @@ Best frameworks and libraries for Machine Learning:
 
 
 
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence+Engineer;LLM+Engineer;AI+Agents;AI/ML+Engineer&center=true&width=500&height=50">
-</p>
 
-
-## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-4285F4?style=for-the-badge&logo=googlecolab&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-2D3748?style=for-the-badge&logo=chainlink&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F91?style=for-the-badge)
 
 
 
@@ -96,12 +126,6 @@ Best frameworks and libraries for Machine Learning:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwam-m&layout=compact&theme=radical)
 
 
-
-## Technical Interests
-- Core AI/ML: Deep Learning, Computer Vision, Natural Language Processing
-- Generative AI: LLMs, RAG systems, Prompt Engineering, LangChain
-- Tech Stack: Python, TensorFlow, PyTorch, Scikit-learn, FastAPI, Flask
-- Specialties: Research implementation, model optimization, API deployment
 
 
 
