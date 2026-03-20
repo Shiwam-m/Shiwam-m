@@ -158,7 +158,7 @@ OS:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
     </td>
     <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
+      <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/64/scikitlearn-icon.png" width="40" height="40"/>
     </td>
     <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
