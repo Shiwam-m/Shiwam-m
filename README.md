@@ -128,15 +128,28 @@ Operating System:
 
 ---
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiwam-m&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
+  <a href="https://drive.google.com/file/d/1hDOUOGx3V0dPWnef47Qp2BT4RgkwQxrE/view?usp=sharing">
+    <img src="gitcity.png" alt="My GitCity" width="700" height="400"/>
+  </a>
 </p>
+
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiwam-m&show_icons=true&theme=highcontrast&count_private=true&card_width=600" alt="GitHub Stats" />
+</p>
+
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwam-m&layout=compact&theme=highcontrast" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwam-m&layout=compact&theme=highcontrast&card_width=400" alt="Top Languages" />
 </p>
+
 
 **Connect with Me**
 <p align="center">
