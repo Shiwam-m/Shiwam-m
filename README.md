@@ -33,7 +33,6 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
     <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">JavaScript</td>
   </tr>
 </table>
-
 ## Best frameworks and libraries for Machine Learning:
 <table style="border-spacing:10px;">
   <!-- Row for icons -->
@@ -71,7 +70,6 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
     <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial, sans-serif;">OpenCV</td>
   </tr>
 </table>
-
 ## Tools for Data Manipulation:
 <table style="border-spacing:10px;">
   <tr>
@@ -103,7 +101,6 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
     <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">SQLite</td>
   </tr>
 </table>
-
 ## Operating System:
 <table style="border-spacing:10px;">
   <tr>
