@@ -3,12 +3,12 @@
 </p>
 
 
-# About Me
+## About Me
 I'm a computer science guy with a knack for AI and machine learning. I've built loads of websites over the years and even worked on augmented reality projects - that futuristic stuff is so cool! Graphic design is one of my favorite hobbies when I'm not coding. I'm also really into digital marketing and have done a ton of work in that space. Technology is my passion and I love exploring all the different areas it touches.
 
 
-# Languages and Tools
-## Languages:
+## Languages and Tools
+#### Languages:
 <table style="border-spacing:10px;">
   <!-- Row for icons -->
   <tr>
