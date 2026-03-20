@@ -34,7 +34,6 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
   </tr>
 </table>
 
-
 ## Best frameworks and libraries for Machine Learning:
 <table style="border-spacing:10px;">
   <!-- Row for icons -->
@@ -73,7 +72,6 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
   </tr>
 </table>
 
-
 ## Tools for Data Manipulation:
 <table style="border-spacing:10px;">
   <tr>
@@ -106,7 +104,7 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
   </tr>
 </table>
 
-## OS:
+## Operating System:
 <table style="border-spacing:10px;">
   <tr>
     <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
@@ -123,8 +121,6 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
 </table>
 
 
-
----
 ---
 
 
