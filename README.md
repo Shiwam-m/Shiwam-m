@@ -134,8 +134,8 @@ I am deeply immersed in the world of Computer Science and have a profound intere
 
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1hDOUOGx3V0dPWnef47Qp2BT4RgkwQxrE/view?usp=sharing">
-    <img src="./gitcity.png" alt="My GitCity" width="700" height="400"/>
+  <a href="https://www.thegitcity.com/dev/shiwam-m" target="_blank">
+    <img src="gitcity.png" alt="My GitCity" width="700" height="400"/>
   </a>
 </p>
 
