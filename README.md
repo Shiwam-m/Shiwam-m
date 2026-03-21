@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:000000&height=250&section=header&text=SHIWAM&fontSize=80&fontColor=00BFFF&animation=fadeIn&fontAlignY=40&desc=GenAI%20Engineer%20%7C%20AI%20Agents%20%7C%20RAG%20%7C%20LLM%20Systems&descAlignY=65&descSize=20" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=GenAI+Engineer;Building+AI+Agents;RAG+Pipelines;LLM+Engineering;Solving+ML+Problems;LLM+Fine-Tuning;Deep+Learning" />
 </p>
@@ -12,203 +13,111 @@ I am deeply immersed in the world of Computer Science and have a profound intere
 
 ## Languages and Tools
 
-**Languages & Databases:**
+**Machine Learning, Deep Learning & Foundations**
 <table style="border-spacing:10px;">
-  <tr>
-    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></td>
-    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
-    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></td>
-    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></td>
-  </tr>
-  <tr>
-    <td align="center" style="color:#fff; font-size:11px;">Python</td>
-    <td align="center" style="color:#fff; font-size:11px;">C++</td>
-    <td align="center" style="color:#fff; font-size:11px;">PostgreSQL</td>
-    <td align="center" style="color:#fff; font-size:11px;">HTML/CSS</td>
-  </tr>
+<tr>
+<td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br/><font color="#fff" size="2">Python</font></td>
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/><br/>
+    <font color="#fff" size="2">Scikit-Learn</font>
+  </td>
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/><br/><font color="#fff" size="2">PyTorch</font></td>
+<td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br/><font color="#fff" size="2">TensorFlow</font></td>
+<td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br/><font color="#fff" size="2">NumPy</font></td>
+<td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br/><font color="#fff" size="2">Pandas</font></td>
+</tr>
 </table>
 
-**Machine Learning / AI Libraries:**
+**Generative AI & LLM Orchestration**
 <table style="border-spacing:10px;">
-  <tr>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-    </td>
-     <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40"/>
-     </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/hugging-face/icon.svg" width="40" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">PyTorch</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">TensorFlow</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">NumPy</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">Pandas</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">Scikit‑learn</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">Matplotlib</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">Hugging Face</td>
-  </tr>
+<tr>
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="45"/><br/>
+    <font color="#fff" size="2">LangChain</font>
+  </td>
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://img.icons8.com/fluency/96/share.png" width="45"/><br/>
+    <font color="#00BFFF" size="2"><strong>LangGraph</strong></font><br/>
+    <font color="#fff" size="1">Multi-Agents</font>
+  </td>
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://img.icons8.com/fluency/96/database.png" width="45"/><br/>
+    <font color="#00BFFF" size="2"><strong>RAG</strong></font><br/>
+    <font color="#fff" size="1">Pipelines</font>
+  </td>
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/hugging-face/icon.svg" width="45"/><br/>
+    <font color="#fff" size="2">HuggingFace</font>
+  </td>
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="45" style="filter: invert(1);"/><br/>
+    <font color="#fff" size="2">LLMs</font>
+  </td>
+</tr>
 </table>
 
-**Generative AI Tools**
+**Vector Databases & Backend**
 <table style="border-spacing:10px;">
-  <!-- Row for icons -->
-  <tr>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdnlogo.com/logo/langchain_156866.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; color:#fff; font-size:10px; font-family:Arial, sans-serif;">
-      LangGraph
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; color:#fff; font-size:10px; font-family:Arial, sans-serif;">
-      RAG Pipelines
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://avatars.githubusercontent.com/u/110823200?s=200&v=4" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/_static/faiss_logo.png" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; color:#fff; font-size:10px; font-family:Arial, sans-serif;">
-      Vector DBs
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; color:#fff; font-size:10px;"><strong>Agentic</strong><br>Systems</td>
-  </tr>
-  <!-- Row for labels -->
-  <tr>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">LangChain</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">LangGraph</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">RAG</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">ChromaDB</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">FAISS</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">Vector Databases</td>
-    <td align="center" style="color:#ffffff; font-size:11px;">AI Agents</td>
-  </tr>
+<tr>
+  <!-- FAISS (Meta Logo - Best for reliability) -->
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45"/><br/>
+    <font color="#fff" size="2">FAISS</font>
+  </td>
+  <!-- ChromaDB -->
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/chroma/icon.svg" width="45"/><br/>
+    <font color="#fff" size="2">ChromaDB</font>
+  </td>
+  <!-- FastAPI -->
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/><br/>
+    <font color="#fff" size="2">FastAPI</font>
+  </td>
+  <!-- Pydantic (Official SVG) -->
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://cdn.simpleicons.org/pydantic/white" width="45"/><br/>
+    <font color="#fff" size="2">Pydantic</font>
+  </td>
+  <!-- Flask (White/Light Filter) -->
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" style="filter: invert(100%) brightness(200%);"/><br/>
+    <font color="#fff" size="2">Flask</font>
+  </td>
+  <!-- PostgreSQL -->
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br/>
+    <font color="#fff" size="2">PostgreSQL</font>
+  </td>
+</tr>
 </table>
 
-**Framework Tools**
+**Deployment & Frontend**
 <table style="border-spacing:10px;">
-  <!-- Row for icons -->
-  <tr>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Streamlit_logo.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; color:#fff; font-size:10px; font-family:Arial, sans-serif;">
-      REST APIs
-    </td>
-  </tr>
-  <!-- Row for labels -->
-  <tr>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">FastAPI</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">Flask</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">Streamlit</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">Docker</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">Git</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">GitHub Actions</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">REST APIs</td>
-  </tr>
+<tr>
+  <!-- Docker -->
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/><br/>
+    <font color="#fff" size="2">Docker</font>
+  </td>
+  <!-- CI/CD (GitHub Actions) -->
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45"/><br/>
+    <font color="#fff" size="2">CI/CD</font>
+  </td>
+  <!-- Streamlit -->
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/><br/>
+    <font color="#fff" size="2">Streamlit</font>
+  </td>
+  <!-- React -->
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br/>
+    <font color="#fff" size="2">React</font>
+  </td>
+</tr>
 </table>
 
-**Data Manipulation / Analytics**
-<table style="border-spacing:10px;">
-  <!-- Row for icons -->
-  <tr>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; color:#fff; font-size:10px; font-family:Arial, sans-serif;">
-      EDA
-    </td>
-  </tr>
-  <!-- Row for labels -->
-  <tr>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">Conda</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">Jupyter</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">SQLite</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">EDA</td>
-    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">PostgreSQL</td>
-  </tr>
-</table>
-
-**Concepts / Workflows**
-<table style="border-spacing:10px;">
-  <!-- Row for icons -->
-  <tr>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:100px; height:80px; color:#fff; font-size:10px; font-family:Arial, sans-serif;">
-      Data Structures &<br/>Algorithms
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; color:#fff; font-size:10px; font-family:Arial, sans-serif;">
-      CI/CD
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:100px; height:80px; color:#fff; font-size:10px; font-family:Arial, sans-serif;">
-      Feature Engineering
-    </td>
-    <td align="center" style="padding:8px; background-color:#282c34; border-radius:12px; width:80px; height:80px; color:#fff; font-size:10px; font-family:Arial, sans-serif;">
-      MLOps
-    </td>
-  </tr>
-  <!-- Row for labels -->
-  <tr>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">Data Structures & Algorithms</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">CI/CD</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">Feature Engineering</td>
-    <td align="center" style="color:#ffffff; font-size:11px; font-family:Arial;">MLOps</td>
-  </tr>
-</table>
-
-**Operating System:**
-<table style="border-spacing:10px;">
-  <tr>
-    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-    </td>
-    <td align="center" style="padding:8px; background:#282c34; border-radius:12px; width:80px; height:80px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">Linux</td>
-    <td align="center" style="color:#fff; font-size:11px; font-family:Arial;">Ubuntu</td>
-  </tr>
-</table>
 
 
 ---
