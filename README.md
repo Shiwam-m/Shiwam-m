@@ -142,17 +142,15 @@ I am deeply immersed in the world of Computer Science and have a profound intere
 
 ---
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiwam-m&show_icons=true&theme=highcontrast&count_private=true&card_width=600" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shiwam-m&show_icons=true&theme=highcontrast&card_width=600" />
 </p>
-
 
 ---
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiwam-m&layout=compact&theme=highcontrast&card_width=400" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shiwam-m&layout=compact&theme=highcontrast" />
 </p>
 
 <p align="center">
