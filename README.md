@@ -2,10 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:000000&height=250&section=header&text=SHIWAM&fontSize=80&fontColor=00BFFF&animation=fadeIn&fontAlignY=40&desc=GenAI%20Engineer%20%7C%20AI%20Agents%20%7C%20RAG%20%7C%20LLM%20Systems&descAlignY=65&descSize=20" />
 </p>
 
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=GenAI+Engineer;Building+AI+Agents;RAG+Pipelines;LLM+Engineering;Solving+ML+Problems;LLM+Fine-Tuning;Deep+Learning" />
-</p>
+</p> -->
 
 
 ## About Me       
