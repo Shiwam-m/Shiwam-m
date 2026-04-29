@@ -52,6 +52,11 @@ I am deeply immersed in the world of Computer Science and have a profound intere
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="45" style="filter: invert(1);"/><br/>
     <font color="#fff" size="2">LLMs</font>
   </td>
+  <td align="center" style="padding:10px; background:#282c34; border-radius:15px; width:90px; height:90px;">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/><br/>
+    <font color="#ffcc00" size="2"><strong>LangSmith</strong></font><br/>
+    <font color="#fff" size="1">Tracing & Observability</font>
+  </td>
 </tr>
 </table>
 
